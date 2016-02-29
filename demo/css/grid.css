@@ -1,0 +1,9 @@
+.long-rect {
+  height: 200px;
+  background-color: #dddddd;
+}
+
+.short-rect {
+  height: 100px;
+  background-color: #cccccc;
+}
